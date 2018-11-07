@@ -306,3 +306,7 @@ body
 .outer-nav li.is-vis:nth-child(4){-webkit-transition-delay:.12s;transition-delay:.12s}
 .outer-nav li.is-vis:nth-child(5){-webkit-transition-delay:.16s;transition-delay:.16s}
 
+.footer {position:absolute;bottom:0;left:0;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;width:100%;height:70px;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;z-index:10; background-color: #000000}
+.footer img{}
+.footer a{}
+.footer h1{text-align: right;color: #fff}
