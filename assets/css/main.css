@@ -225,7 +225,7 @@ body
 .about--banner h2{position:relative;margin-top:35px;font-size:68px;font-weight:100;line-height:1;z-index:1}
 .about--banner h2::before{content:"";position:absolute;top:60px;left:268px;width:30px;height:30px;background-color:#00AEF8;border-radius:50%}
 .about--banner h2::after{content:"";position:absolute;top:255px;left:255px;width:10px;height:10px;background-color:#00AEF8}
-.about--banner a{padding:5px 17px 5px 0;text-decoration:none;color:#fff;font-weight:100;text-transform:uppercase;background-color:transparent}
+.about--banner a{padding:5px 17px 5px 0;text-decoration:none;color:#000;font-weight:100;text-transform:uppercase;background-color:transparent}
 .about--banner a:hover svg{left:10px}
 .about--banner a svg{position:relative;left:5px;width:15px;fill:#000;-webkit-transition:left .2s ease-in-out;transition:left .2s ease-in-out}
 .about--banner img{position:absolute;bottom:-90px;right:-12px}
@@ -301,5 +301,6 @@ body
 .footer ul{text-align:right;list-style: none;overflow:hidden;text-overflow:ellipsis;white-space: nowrap;display: inline;text-decoration: none;}
 .footer li{list-style: none;display: inline;margin-right: 30px;text-decoration: none;}
 .footer img{position: relative;height: 2%;width: 2%;padding-right: 5px;}
-.footer p{text-align: center;text-decoration-color: #000;font-size: 12px;white-space: nowrap;}
+.footer p{text-align: center;text-decoration-color: #000;font-size: 12px;white-space: nowrap;margin: auto;}
 .footer h1{text-align: center;margin-left: 30px;color: #000;font-family: sans-serif;font-size: 18px;}
+.footer a{text-decoration: none;font-style: none;color: #000;}
