@@ -174,8 +174,6 @@ body
 .outer-nav li.is-vis:nth-child(5){-webkit-transition-delay:.16s;transition-delay:.16s}
 
 
-.txdot01 {position:relative;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;width:900px;max-width:75%;height:100%;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;margin:0 auto}
-.txdot02{}
-.txdotheader {;font-weight: bold;font-size: 24px;}
-.txdot {margin-right: auto;margin-left: auto;}
+.txdot01{position:relative;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;max-width:75%;height:100%;width:70%;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;margin:0 auto}
+.txdotheader h1{position: relative;margin-top:100px;font-size:36px;font-weight:100;}
 .txdot img{position:relative;vertical-align: middle;height: 100%;width: 100%}
