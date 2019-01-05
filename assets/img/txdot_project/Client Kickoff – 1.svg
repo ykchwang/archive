@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Client_Kickoff_1);
+      }
+
+      .cls-2 {
+        fill: #2b6faf;
+        font-size: 50px;
+      }
+
+      .cls-10, .cls-12, .cls-2, .cls-5, .cls-7, .cls-8, .cls-9 {
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-13, .cls-3 {
+        fill: #4681b9;
+      }
+
+      .cls-3 {
+        stroke: #707070;
+      }
+
+      .cls-15, .cls-4 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke: #f1595c;
+        stroke-width: 5px;
+      }
+
+      .cls-10, .cls-5 {
+        font-size: 28px;
+      }
+
+      .cls-6 {
+        font-size: 36px;
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+
+      .cls-7 {
+        font-weight: 400;
+      }
+
+      .cls-8 {
+        font-size: 30px;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-9 {
+        font-size: 42px;
+      }
+
+      .cls-12 {
+        font-size: 20px;
+      }
+
+      .cls-13 {
+        stroke: #fff;
+        stroke-width: 2px;
+      }
+
+      .cls-14 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-Client_Kickoff_1">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Client_Kickoff_1" data-name="Client Kickoff – 1" class="cls-1">
+    <rect class="cls-11" width="1920" height="1080"/>
+    <text id="Client_Kickoff" data-name="Client Kickoff" class="cls-2" transform="translate(67 106)"><tspan x="0" y="0">Client Kickoff</tspan></text>
+    <g id="Rectangle_5" data-name="Rectangle 5" class="cls-3" transform="translate(1280)">
+      <rect class="cls-14" width="640" height="1080"/>
+      <rect class="cls-15" x="0.5" y="0.5" width="639" height="1079"/>
+    </g>
+    <line id="Line_6" data-name="Line 6" class="cls-4" x2="358" y2="1" transform="translate(0.5 118.5)"/>
+    <text id="Date:_09.17.2018" data-name="Date: 09.17.2018" class="cls-5" transform="translate(67 313)"><tspan x="0" y="0">Date: 09.17.2018</tspan></text>
+    <text id="Client:_Beth_Hallmark_Director_of_Communications_at_TxDOT" data-name="Client: Beth Hallmark, Director of Communications at TxDOT" class="cls-6" transform="translate(67 258)"><tspan x="0" y="0">Client:</tspan><tspan class="cls-7" y="0" xml:space="preserve"> Beth Hallmark, Director of Communications at TxDOT</tspan></text>
+    <text id="From_this_meeting_it_helped_me_identify_the_goals_and_problems_faced_by_the_Texas_Department_of_Transportation_TxDOT_._" data-name="From this meeting, it helped me identify the goals and problems faced by the
+Texas Department of Transportation (TxDOT). " class="cls-8" transform="translate(67 453)"><tspan x="0" y="0">From this meeting, it helped me identify the goals and problems faced by the</tspan><tspan x="0" y="50">Texas Department of Transportation (TxDOT). </tspan></text>
+    <text id="Location:_UTA_1.502_School_of_Information" data-name="Location: UTA 1.502, School of Information" class="cls-5" transform="translate(67 365)"><tspan x="0" y="0">Location: UTA 1.502, School of Information</tspan></text>
+    <text id="Takeaways" class="cls-9" transform="translate(1342 121)"><tspan x="0" y="0">Takeaways</tspan></text>
+    <g id="Group_11" data-name="Group 11" transform="translate(0 46)">
+      <text id="Goal:_keep_Texans_safe_informed_and_moving" data-name="Goal: keep Texans safe, informed, and 
+moving" class="cls-10" transform="translate(1400 169)"><tspan x="0" y="0">Goal: keep Texans safe, informed, and </tspan><tspan x="0" y="37">moving</tspan></text>
+      <circle id="Ellipse_237" data-name="Ellipse 237" class="cls-11" cx="7.5" cy="7.5" r="7.5" transform="translate(1364 153)"/>
+    </g>
+    <g id="Group_12" data-name="Group 12" transform="translate(0 185)">
+      <text id="Current_Outlet_Channels" data-name="Current Outlet Channels" class="cls-10" transform="translate(1400 169)"><tspan x="0" y="0">Current Outlet Channels</tspan></text>
+      <circle id="Ellipse_237-2" data-name="Ellipse 237" class="cls-11" cx="7.5" cy="7.5" r="7.5" transform="translate(1364 153)"/>
+      <text id="Websites" class="cls-12" transform="translate(1430 223)"><tspan x="0" y="0">Websites</tspan></text>
+      <g id="Ellipse_238" data-name="Ellipse 238" class="cls-13" transform="translate(1400 211)">
+        <circle class="cls-14" cx="5" cy="5" r="5"/>
+        <circle class="cls-15" cx="5" cy="5" r="4"/>
+      </g>
+      <text id="Social_Media" data-name="Social Media" class="cls-12" transform="translate(1430 268)"><tspan x="0" y="0">Social Media</tspan></text>
+      <g id="Ellipse_239" data-name="Ellipse 239" class="cls-13" transform="translate(1400 256)">
+        <circle class="cls-14" cx="5" cy="5" r="5"/>
+        <circle class="cls-15" cx="5" cy="5" r="4"/>
+      </g>
+      <text id="Public_Information_Offices" data-name="Public Information Offices" class="cls-12" transform="translate(1430 313)"><tspan x="0" y="0">Public Information Offices</tspan></text>
+      <g id="Ellipse_240" data-name="Ellipse 240" class="cls-13" transform="translate(1400 301)">
+        <circle class="cls-14" cx="5" cy="5" r="5"/>
+        <circle class="cls-15" cx="5" cy="5" r="4"/>
+      </g>
+      <text id="Local_Media" data-name="Local Media" class="cls-12" transform="translate(1430 358)"><tspan x="0" y="0">Local Media</tspan></text>
+      <g id="Ellipse_241" data-name="Ellipse 241" class="cls-13" transform="translate(1400 346)">
+        <circle class="cls-14" cx="5" cy="5" r="5"/>
+        <circle class="cls-15" cx="5" cy="5" r="4"/>
+      </g>
+      <text id="State_Travel_Guides" data-name="State Travel Guides" class="cls-12" transform="translate(1430 403)"><tspan x="0" y="0">State Travel Guides</tspan></text>
+      <g id="Ellipse_242" data-name="Ellipse 242" class="cls-13" transform="translate(1400 391)">
+        <circle class="cls-14" cx="5" cy="5" r="5"/>
+        <circle class="cls-15" cx="5" cy="5" r="4"/>
+      </g>
+    </g>
+    <g id="Group_13" data-name="Group 13" transform="translate(-6 519)">
+      <text id="Not_planning_to_build_an_app" data-name="Not planning to build an app" class="cls-10" transform="translate(1400 169)"><tspan x="0" y="0">Not planning to build an app</tspan></text>
+      <circle id="Ellipse_237-3" data-name="Ellipse 237" class="cls-11" cx="7.5" cy="7.5" r="7.5" transform="translate(1364 153)"/>
+    </g>
+    <text id="Problem_Space" data-name="Problem Space" class="cls-6" transform="translate(67 736)"><tspan x="0" y="0">Problem Space</tspan></text>
+    <text id="TxDOT_wants_their_own_digital_newsroom_as_they_believe_local_media_are_not_passing_on_enough_positive_takes_regarding_their_brand._Thus_the_goal_of_the_digital_newsroom_is_to_bring_brand_awareness_and_create_contents_that_attracts_Texans_to_their_websi" data-name="TxDOT wants their own digital newsroom, as they believe local media are not 
+passing on enough positive takes regarding their brand. Thus, the goal of the 
+digital newsroom is to bring brand awareness and create contents that attracts
+Texans to their websi" class="cls-8" transform="translate(67 827)"><tspan x="0" y="0">TxDOT wants their own digital newsroom, as they believe local media are not </tspan><tspan x="0" y="50">passing on enough positive takes regarding their brand. Thus, the goal of the </tspan><tspan x="0" y="100">digital newsroom is to bring brand awareness and create contents that attracts</tspan><tspan x="0" y="150">Texans to their website. However, they have no clue as to how to do this.</tspan></text>
+    <g id="Group_18" data-name="Group 18" transform="translate(-6 621)">
+      <text id="Wants_to_become_media_outlet" data-name="Wants to become media outlet" class="cls-10" transform="translate(1400 169)"><tspan x="0" y="0">Wants to become media outlet</tspan></text>
+      <circle id="Ellipse_237-4" data-name="Ellipse 237" class="cls-11" cx="7.5" cy="7.5" r="7.5" transform="translate(1364 153)"/>
+    </g>
+    <g id="Group_19" data-name="Group 19" transform="translate(-6 723)">
+      <text id="Wants_to_pass_information_to_drivers" data-name="Wants to pass information to drivers" class="cls-10" transform="translate(1400 169)"><tspan x="0" y="0">Wants to pass information to drivers</tspan></text>
+      <circle id="Ellipse_237-5" data-name="Ellipse 237" class="cls-11" cx="7.5" cy="7.5" r="7.5" transform="translate(1364 153)"/>
+    </g>
+  </g>
+</svg>
