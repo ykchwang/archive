@@ -184,7 +184,7 @@ body
 .txdot01{position:relative;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;max-width:75%;height:100%;width:70%;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;margin:0 auto}
 .txdotheader h1{position: relative;margin-top:100px;font-size:36px;font-weight:100;}
 .txdotheader h2{position: relative;margin-top:100px;font-size:28px;font-weight:500;font-style: sans-serif;color: #006E89}
-.txdotheader a{padding:5px 17px 5px 0;text-decoration:none;color:#00AEF8;font-weight:100;text-transform:uppercase;background-color:transparent;font-size: 16px;}
-.txdotheader a:hover svg{left:8px}
-.txdotheader a svg{position:relative;left:2px;width:15px;fill:#00AEF8;-webkit-transition:left .2s ease-in-out;transition:left .2s ease-in-out}
+.txdot01 a{padding:5px 17px 5px 0;text-decoration:none;color:#00AEF8;font-weight:100;text-transform:uppercase;background-color:transparent;font-size: 16px;}
+.txdot01 a:hover svg{left:8px}
+.txdot01 a svg{position:relative;left:2px;width:15px;fill:#00AEF8;-webkit-transition:left .2s ease-in-out;transition:left .2s ease-in-out}
 .txdot img{position:relative;vertical-align: middle;height: 100%;width: 100%}
