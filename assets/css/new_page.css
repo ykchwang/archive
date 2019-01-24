@@ -108,14 +108,14 @@ table
 td,th
 {padding:0}
 ::-moz-selection
-{background:#00AEF8}
-::selection{background:#00AEF8}
-::-moz-selection{background:#00AEF8}
+{background:#C7F4FF}
+::selection{background:#C7F4FF}
+::-moz-selection{background:#C7F4FF}
 img::-moz-selection{background:transparent}
 img::selection{background:transparent}
 img::-moz-selection{background:transparent}
 body
-{-webkit-tap-highlight-color:#00AEF8}
+{-webkit-tap-highlight-color:#C7F4FF}
 body
 {background-color:#fff;font-size:14px;line-height:1.6;font-family:"Montserrat",sans-serif;color:#000;-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:100%}
 .l-viewport{position:relative;width:100%;height:100vh;box-shadow:0 0 45px 5px rgba(0,0,0,0.85);overflow:auto}
@@ -148,10 +148,13 @@ body
 
 .txdot01{position:relative;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;max-width:75%;height:100%;width:70%;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;margin:0 auto}
 .txdotheader h1{position: relative;margin-top:100px;font-size:36px;font-weight:100;}
-.txdotheader h2{position: relative;margin-top:100px;font-size:28px;font-weight:500;font-style: sans-serif;color: #006E89}
+.txdotheader h2{position: relative;margin-top:50px;font-size:28px;font-weight:500;font-style: sans-serif;color: #006E89}
+.txdotheader h3{position: relative;margin-top:20px;font-size:22px;font-weight:300;font-style: sans-serif;color: #008EB0}
+.txdot01 img{width: 60%;display: block;margin: auto;}
 .txdot01 a{padding:5px 17px 5px 0;text-decoration:none;color:#00AEF8;font-weight:100;text-transform:uppercase;background-color:transparent;font-size: 16px;}
 .txdot01 a:hover svg{left:8px}
 .txdot01 a svg{position:relative;left:2px;width:15px;fill:#00AEF8;-webkit-transition:left .2s ease-in-out;transition:left .2s ease-in-out}
+.txdot01 iframe{margin: auto;margin-left: auto;margin-right: auto}
 .txdot img{position:relative;vertical-align: middle;height: 100%;width: 100%}
 
 .perspective{position:relative;width:100%;height:100%;overflow:auto}
