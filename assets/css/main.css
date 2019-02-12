@@ -357,8 +357,3 @@ body
 .footer_link img{height: 20px;width: 20px;vertical-align: bottom;}
 .footer_link a{position:relative;text-decoration: none;font-size: 0px;font-weight: 200;color: #000;padding: 2%;float: right;}
 }
-.txdot01 {position:relative;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;width:900px;max-width:75%;height:100%;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;margin:0 auto}
-.txdot01 hr{margin:20px 0px 20px 0px; padding:0px; border:0;border-bottom:4px solid #1a10e7;width: 100px}
-.txdotheader {font-weight: bold;font-size: 24px;}
-.txdot {margin-right: auto;margin-left: auto;}
-.txdot img{position:relative;vertical-align: middle;height: 100%;width: 100%}
