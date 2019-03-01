@@ -248,7 +248,7 @@ body
 .basketball p{font-size: 14px;}
 .interest p{font-size: 0px;}
 
-.hidden h3{left: 18%;}
+.hidden h3{left: 18%;margin-bottom: 0px}
 .hidden p{left: 18%;position: absolute;}
 .portrait {position: absolute;top: 80px;left: 85%;}
 .portrait img{position:relative;top:0;left:0;width: 175px;height: 225px;}
