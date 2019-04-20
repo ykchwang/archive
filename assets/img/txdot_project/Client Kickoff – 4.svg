@@ -3,75 +3,75 @@
     <clipPath id="clip-path">
       <circle id="Ellipse_354" data-name="Ellipse 354" cx="121.5" cy="121.5" r="121.5" transform="translate(944 259)" fill="#fff" stroke="#4681b9" stroke-width="5"/>
     </clipPath>
-    <clipPath id="clip-Client_Kickoff_1">
+    <clipPath id="clip-Client_Kickoff_4">
       <rect width="1920" height="1080"/>
     </clipPath>
   </defs>
-  <g id="Client_Kickoff_1" data-name="Client Kickoff – 1" clip-path="url(#clip-Client_Kickoff_1)">
+  <g id="Client_Kickoff_4" data-name="Client Kickoff – 4" clip-path="url(#clip-Client_Kickoff_4)">
     <rect width="1920" height="1080" fill="#fff"/>
-    <text id="Client_Kickoff" data-name="Client Kickoff" transform="translate(67 106)" fill="#2b6faf" font-size="50" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Client Kickoff</tspan></text>
+    <text id="Client_Kickoff" data-name="Client Kickoff" transform="translate(67 106)" fill="#2b6faf" font-size="50" font-family="Ubuntu-Regular, Ubuntu"><tspan x="0" y="0">Client Kickoff</tspan></text>
     <g id="Rectangle_5" data-name="Rectangle 5" transform="translate(1280)" fill="#4681b9" stroke="#707070" stroke-width="1">
       <rect width="640" height="1080" stroke="none"/>
       <rect x="0.5" y="0.5" width="639" height="1079" fill="none"/>
     </g>
-    <line id="Line_6" data-name="Line 6" x2="358" y2="1" transform="translate(0.5 118.5)" fill="none" stroke="#f1595c" stroke-width="5"/>
+    <line id="Line_6" data-name="Line 6" x2="373" transform="translate(0.5 118.5)" fill="none" stroke="#f1595c" stroke-width="5"/>
     <text id="From_this_meeting_I_identified_the_goals_and_problems_faced_by_the_Texas_Department_of_Transportation_TxDOT_._" data-name="From this meeting, I identified the goals and problems faced by the Texas
-Department of Transportation (TxDOT). " transform="translate(67 535)" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">From this meeting, I identified the goals and problems faced by the Texas</tspan><tspan x="0" y="50">Department of Transportation (TxDOT). </tspan></text>
+Department of Transportation (TxDOT). " transform="translate(67 535)" font-size="30" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">From this meeting, I identified the goals and problems faced by the Texas</tspan><tspan x="0" y="50">Department of Transportation (TxDOT). </tspan></text>
     <g id="Group_84" data-name="Group 84" transform="translate(292 37)">
-      <text id="Date:_09.17.2018" data-name="Date: 09.17.2018" transform="translate(67 313)" font-size="28" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Date: 09.17.2018</tspan></text>
-      <text id="Client:_Beth_Hallmark_Director_of_Communications" data-name="Client: Beth Hallmark, Director of Communications" transform="translate(67 258)" font-size="36" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Client:</tspan><tspan y="0" xml:space="preserve" font-family="SegoeUI, Segoe UI" font-weight="400"> Beth Hallmark, Director of Communications</tspan></text>
-      <text id="Location:_UTA_1.502_School_of_Information" data-name="Location: UTA 1.502, School of Information" transform="translate(67 365)" font-size="28" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Location: UTA 1.502, School of Information</tspan></text>
+      <text id="Date:_09.17.2018" data-name="Date: 09.17.2018" transform="translate(67 313)" font-size="28" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Date: 09.17.2018</tspan></text>
+      <text id="Client:_Beth_Hallmark_Director_of_Communications" data-name="Client: Beth Hallmark, Director of Communications" transform="translate(67 258)" font-size="36" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Client:</tspan><tspan y="0" xml:space="preserve" font-family="Roboto-Regular, Roboto" font-weight="400"> Beth Hallmark, Director of Communications</tspan></text>
+      <text id="Location:_UTA_1.502_School_of_Information" data-name="Location: UTA 1.502, School of Information" transform="translate(67 365)" font-size="28" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Location: UTA 1.502, School of Information</tspan></text>
     </g>
-    <text id="Takeaways" transform="translate(1342 121)" fill="#fff" font-size="42" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Takeaways</tspan></text>
+    <text id="Takeaways" transform="translate(1342 121)" fill="#fff" font-size="42" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Takeaways</tspan></text>
     <g id="Group_11" data-name="Group 11" transform="translate(0 46)">
       <text id="Goal:_keep_Texans_safe_informed_and_moving" data-name="Goal: keep Texans safe, informed, and 
-moving" transform="translate(1400 169)" fill="#fff" font-size="28" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Goal: keep Texans safe, informed, and </tspan><tspan x="0" y="37">moving</tspan></text>
+moving" transform="translate(1400 169)" fill="#fff" font-size="28" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Goal: keep Texans safe, informed, and </tspan><tspan x="0" y="34">moving</tspan></text>
       <circle id="Ellipse_237" data-name="Ellipse 237" cx="7.5" cy="7.5" r="7.5" transform="translate(1364 153)" fill="#fff"/>
     </g>
     <g id="Group_12" data-name="Group 12" transform="translate(0 185)">
-      <text id="Current_Outlet_Channels" data-name="Current Outlet Channels" transform="translate(1400 169)" fill="#fff" font-size="28" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Current Outlet Channels</tspan></text>
+      <text id="Current_Outlet_Channels" data-name="Current Outlet Channels" transform="translate(1400 169)" fill="#fff" font-size="28" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Current Outlet Channels</tspan></text>
       <circle id="Ellipse_237-2" data-name="Ellipse 237" cx="7.5" cy="7.5" r="7.5" transform="translate(1364 153)" fill="#fff"/>
-      <text id="Websites" transform="translate(1430 223)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Websites</tspan></text>
+      <text id="Websites" transform="translate(1430 223)" fill="#fff" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Websites</tspan></text>
       <g id="Ellipse_238" data-name="Ellipse 238" transform="translate(1400 211)" fill="#4681b9" stroke="#fff" stroke-width="2">
         <circle cx="5" cy="5" r="5" stroke="none"/>
         <circle cx="5" cy="5" r="4" fill="none"/>
       </g>
-      <text id="Social_Media" data-name="Social Media" transform="translate(1430 268)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Social Media</tspan></text>
+      <text id="Social_Media" data-name="Social Media" transform="translate(1430 268)" fill="#fff" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Social Media</tspan></text>
       <g id="Ellipse_239" data-name="Ellipse 239" transform="translate(1400 256)" fill="#4681b9" stroke="#fff" stroke-width="2">
         <circle cx="5" cy="5" r="5" stroke="none"/>
         <circle cx="5" cy="5" r="4" fill="none"/>
       </g>
-      <text id="Public_Information_Offices" data-name="Public Information Offices" transform="translate(1430 313)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Public Information Offices</tspan></text>
+      <text id="Public_Information_Offices" data-name="Public Information Offices" transform="translate(1430 313)" fill="#fff" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Public Information Offices</tspan></text>
       <g id="Ellipse_240" data-name="Ellipse 240" transform="translate(1400 301)" fill="#4681b9" stroke="#fff" stroke-width="2">
         <circle cx="5" cy="5" r="5" stroke="none"/>
         <circle cx="5" cy="5" r="4" fill="none"/>
       </g>
-      <text id="Local_Media" data-name="Local Media" transform="translate(1430 358)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Local Media</tspan></text>
+      <text id="Local_Media" data-name="Local Media" transform="translate(1430 358)" fill="#fff" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Local Media</tspan></text>
       <g id="Ellipse_241" data-name="Ellipse 241" transform="translate(1400 346)" fill="#4681b9" stroke="#fff" stroke-width="2">
         <circle cx="5" cy="5" r="5" stroke="none"/>
         <circle cx="5" cy="5" r="4" fill="none"/>
       </g>
-      <text id="State_Travel_Guides" data-name="State Travel Guides" transform="translate(1430 403)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">State Travel Guides</tspan></text>
+      <text id="State_Travel_Guides" data-name="State Travel Guides" transform="translate(1430 403)" fill="#fff" font-size="20" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">State Travel Guides</tspan></text>
       <g id="Ellipse_242" data-name="Ellipse 242" transform="translate(1400 391)" fill="#4681b9" stroke="#fff" stroke-width="2">
         <circle cx="5" cy="5" r="5" stroke="none"/>
         <circle cx="5" cy="5" r="4" fill="none"/>
       </g>
     </g>
     <g id="Group_13" data-name="Group 13" transform="translate(-6 519)">
-      <text id="Not_planning_to_build_an_app" data-name="Not planning to build an app" transform="translate(1400 169)" fill="#fff" font-size="28" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Not planning to build an app</tspan></text>
+      <text id="Not_planning_to_build_an_app" data-name="Not planning to build an app" transform="translate(1400 169)" fill="#fff" font-size="28" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Not planning to build an app</tspan></text>
       <circle id="Ellipse_237-3" data-name="Ellipse 237" cx="7.5" cy="7.5" r="7.5" transform="translate(1364 153)" fill="#fff"/>
     </g>
-    <text id="Problem_Space" data-name="Problem Space" transform="translate(67 736)" font-size="36" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Problem Space</tspan></text>
+    <text id="Problem_Space" data-name="Problem Space" transform="translate(67 736)" font-size="36" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Problem Space</tspan></text>
     <text id="TxDOT_wants_their_own_digital_newsroom_as_they_believe_local_media_are_not_passing_on_enough_positive_takes_regarding_their_brand._Thus_the_goal_of_the_digital_newsroom_is_to_bring_brand_awareness_and_create_contents_that_attracts_Texans_to_their_websi" data-name="TxDOT wants their own digital newsroom, as they believe local media are not 
 passing on enough positive takes regarding their brand. Thus, the goal of the 
 digital newsroom is to bring brand awareness and create contents that attracts
-Texans to their websi" transform="translate(67 827)" font-size="30" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">TxDOT wants their own digital newsroom, as they believe local media are not </tspan><tspan x="0" y="50">passing on enough positive takes regarding their brand. Thus, the goal of the </tspan><tspan x="0" y="100">digital newsroom is to bring brand awareness and create contents that attracts</tspan><tspan x="0" y="150">Texans to their website. However, they have no clue as to how to do this.</tspan></text>
+Texans to their websi" transform="translate(67 827)" font-size="30" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">TxDOT wants their own digital newsroom, as they believe local media are not </tspan><tspan x="0" y="50">passing on enough positive takes regarding their brand. Thus, the goal of the </tspan><tspan x="0" y="100">digital newsroom is to bring brand awareness and create contents that attracts</tspan><tspan x="0" y="150">Texans to their website. However, they have no clue as to how to do this.</tspan></text>
     <g id="Group_18" data-name="Group 18" transform="translate(-6 621)">
-      <text id="Wants_to_become_media_outlet" data-name="Wants to become media outlet" transform="translate(1400 169)" fill="#fff" font-size="28" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Wants to become media outlet</tspan></text>
+      <text id="Wants_to_become_media_outlet" data-name="Wants to become media outlet" transform="translate(1400 169)" fill="#fff" font-size="28" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Wants to become media outlet</tspan></text>
       <circle id="Ellipse_237-4" data-name="Ellipse 237" cx="7.5" cy="7.5" r="7.5" transform="translate(1364 153)" fill="#fff"/>
     </g>
     <g id="Group_19" data-name="Group 19" transform="translate(-6 723)">
-      <text id="Wants_to_pass_information_to_drivers" data-name="Wants to pass information to drivers" transform="translate(1400 169)" fill="#fff" font-size="28" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Wants to pass information to drivers</tspan></text>
+      <text id="Wants_to_pass_information_to_drivers" data-name="Wants to pass information to drivers" transform="translate(1400 169)" fill="#fff" font-size="28" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Wants to pass information to drivers</tspan></text>
       <circle id="Ellipse_237-5" data-name="Ellipse 237" cx="7.5" cy="7.5" r="7.5" transform="translate(1364 153)" fill="#fff"/>
     </g>
     <g id="Group_83" data-name="Group 83" transform="translate(-867 -47)">
